@@ -1,3 +1,6 @@
+## Lien du projet 
+https://github.com/Cerisesss/rattrapageMLAvance
+
 ## Structure du projet
 
 - `src/data.py` : chargement et noms des caractéristiques du dataset Iris
